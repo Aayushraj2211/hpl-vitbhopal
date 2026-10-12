@@ -1,7 +1,7 @@
 # hpl-vitbhopal
 Hostel Premier League (HPL) — VIT Bhopal University
 
-The Hostel Premier League (HPL) is an inter-house sports and esports tournament at VIT Bhopal University, bringing together students from different hostels to compete, collaborate, and represent their respective houses across multiple sporting disciplines.
+The Hostel Premier League (HPL) is an inter-house sports and sports tournament at VIT Bhopal University, bringing together students from different hostels to compete, collaborate, and represent their respective houses across multiple sporting disciplines.
 
 This project is the official HPL website, designed to serve as a centralized digital platform for tournament information, event updates, fixtures, results, team details, and other essential league activities. It aims to provide students, participants, organizers, and spectators with an accessible and organized way to stay connected with the competition.
 
