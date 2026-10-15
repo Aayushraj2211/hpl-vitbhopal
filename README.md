@@ -20,5 +20,3 @@ Showcase participating houses, teams, and players.
 Improve communication between participants and organizers.
 
 Support efficient tournament operations and event coordination.
-
-Establish a consistent digital presence for HPL at VIT Bhopal University.
